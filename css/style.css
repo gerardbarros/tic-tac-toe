@@ -28,7 +28,7 @@
 }
 
 .square{
-  border: 1px solid #000;
+  border: 1.5px solid #0C20CF;
   width: 30%;
   resize: none;
   height: 35%;
@@ -48,7 +48,7 @@ h1{
 }
 
 .notClicked:hover{
-  background-color: navy;
+  background-color: #F9CC09 ;
 }
 
 /******************************************
